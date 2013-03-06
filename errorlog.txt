@@ -1,0 +1,1 @@
+non-graphics file "all.txt" was skipped
